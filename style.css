@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Roboto:ital,wght@0,400;0,500;1,900&display=swap');
+
+html{
+    font-family: 'Roboto', sans-serif;
+}
+span{
+    color: #10AAC7;
+}
+video{
+    display: block;
+    margin: 0 auto;
+    width: 465px;
+}
+
+
+h1{
+    color: #10AAC7;
+    font-size: 2.5rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    color: #D8D8D8;
+    font-size: 1.5rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+p{
+    color: #D8D8D8;
+    font-size: 1.3rem;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#presentation p{
+    flex-direction: column;
+}
+#video p{
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+
+.cta{
+    display: block;
+    margin: 0 auto;
+    padding: 10px 30px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid crimson;
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+    margin-top: 30px;
+    transition: 0.3s ease;
+    transition-property: background-color, color;
+    text-align: center;
+    width: 400px;
+    font-size: 1.5rem;
+
+}
+.cta:hover{
+    color: white;
+    background-color: crimson;
+}
