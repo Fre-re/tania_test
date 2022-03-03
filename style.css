@@ -47,7 +47,9 @@ p{
     margin-top: 20px;
 }
 
-
+a{
+    text-decoration: none;
+}
 .cta{
     display: block;
     margin: 0 auto;
