@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Roboto:ital,wght@0,400;0,500;1,900&display=swap');
+
+html{
+    font-family: 'Roboto', sans-serif;
+}
+span{
+    color: #10AAC7;
+}
+video{
+    display: block;
+    margin: 0 auto;
+    width: 98%;
+    border-radius: 50px;
+}
+#video{
+    margin-top: 150px;
+}
+#links{
+    margin-top: 150px;
+}
+
+h1{
+    color: #10AAC7;
+    font-size: 2.5rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+h2{
+    color: #D8D8D8;
+    font-size: 1.5rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+p{
+    color: #D8D8D8;
+    font-size: 1.3rem;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#presentation{
+    border: 2px solid #10AAC7;
+    border-radius: 50px;
+}
+
+#presentation h1{
+    margin-top: 50px;
+}
+#presentation h2{
+    margin-top: 50px;
+}
+#presentation p{
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#video p{
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+.cta{
+    display: block;
+    margin: 0 auto;
+    padding: 10px 30px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid crimson;
+    letter-spacing: 0.1rem;
+    margin-top: 30px;
+    transition: 0.3s ease;
+    transition-property: background-color, color;
+    text-align: center;
+    width: 90%;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    font-size: 150%;
+}
+.cta:hover{
+    color: white;
+    background-color: crimson;
+}
+
+
+
+
+#but2 .cta{
+    border: 2px solid #E8C200;
+    background-color: #E8C200;
+    color: black;
+}
+#but2 .cta:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but3 .cta{
+    border: 2px solid #5AE800;
+}
+#but3 .cta:hover{
+    color: black;
+    background-color: #5AE800;
+}
+
+#but4 .cta{
+    border: 2px solid #E84F00;
+    background-color: #E84F00;
+    color: black;
+}
+#but4 .cta:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but5 .cta{
+    border: 2px solid #8500E8;
+}
+#but5 .cta:hover{
+    color: white;
+    background-color: #8500E8;
+}
+
+#but6 .cta{
+    border: 2px solid #0089E8;
+    background-color: #0089E8;
+    color: white;
+}
+#but6 .cta:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
+
+#but7 .cta{
+    border: 2px solid #E800B7;
+}
+#but7 .cta:hover{
+    color: black;
+    background-color: #E800B7;
+}
+
+#but8 .cta{
+    border: 2px solid #00E861;
+    background-color: #00E861;
+    color: black;
+}
+#but8 .cta:hover{
+    color: white;
+    background-color: #1B1B1B;
+}
