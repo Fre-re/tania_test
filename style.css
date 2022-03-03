@@ -71,6 +71,7 @@ a{
     transition-property: background-color, color;
     text-align: center;
     width: 90%;
+    border-radius: 20px;
 }
 .cta:hover{
     color: white;
