@@ -83,7 +83,7 @@ a{
     width: 90%;
     border-radius: 20px;
     margin-bottom: 50px;
-    font-size: 150%;
+    font-size: 3rem;
 }
 .cta:hover{
     color: white;
