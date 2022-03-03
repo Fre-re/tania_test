@@ -9,7 +9,7 @@ span{
 video{
     display: block;
     margin: 0 auto;
-    width: 465px;
+    width: 800px;
 }
 
 
@@ -59,7 +59,7 @@ p{
     transition: 0.3s ease;
     transition-property: background-color, color;
     text-align: center;
-    width: 400px;
+    width: 800px;
     font-size: 1.5rem;
 
 }
