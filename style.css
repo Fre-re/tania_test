@@ -47,11 +47,13 @@ p{
     flex-direction: column;
     margin-top: 50px;
     margin-bottom: 2px;
+    max-width: 90%;
 }
 
 #video p{
     flex-direction: column;
     margin-top: 20px;
+    max-width: 90%;
 }
 
 a{
