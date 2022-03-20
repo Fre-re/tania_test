@@ -26,7 +26,7 @@ span{color: #4DA9FF;}
 /**/
 /**/
 /*Video Section*/
-video{width: 500px;
+video{width: 30em;
 display: block;
 margin-left: auto; 
 margin-right: auto;
@@ -34,7 +34,7 @@ border-radius: 30px;}
 
 #video-section{background-color: black;
 border-radius: 20px;
-max-width: 700px;
+max-width: 32em;
 margin-left: auto;
 margin-right: auto;}
 /*End Video Section*/
